@@ -12,7 +12,7 @@ Admins have enhanced privileges, allowing them to manage the entire movie databa
 # My Contributions
 
 I was responsible for the backend development and database integration. My main tasks included:
-* Creating **Java classes** and backend logic using **Spring Boot** to let users add and manage movies in the database.
+* Creating **Java classes** and backend logic using **Spring Boot** to let admins add and manage movies in the database.
 * Setting up and connecting the project to an online **Supabase (PostgreSQL)** database.
 * Linking the **frontend** and **backend** so that movie information could be viewed and updated through the website.
 * Providing design input and feedback on the user interface and overall flow of the application.
