@@ -29,7 +29,7 @@ Before running the project, ensure you have the following installed:
 
 ### Option 1: Online Deployable
 
-The project is deployed and can be accessed directly at: [Precision Tech Movie Catalog](https://precisiontechcollab.onrender.com/index.html)
+The project is deployed and can be accessed directly at: [FilmFlix](https://precisiontechcollab.onrender.com/index.html)
 
 You can interact with the movie catalog and manage your movies through our web interface.
 
