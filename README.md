@@ -1,5 +1,4 @@
 # FilmFlix
-Personal version of a collaborative project at Ontario Tech University.
 
 <div style="text-align: justify;">
 FilmFlix is a movie database cataloguing system designed to manage and display a vast collection of movies. It enables users to search, filter, and view detailed information about movies, including genres, release dates, and movie descriptions. Users can also add their favorite movies to a personal list for easy access.
